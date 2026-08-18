@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the difference between 4WD and AWD?",
+    "answer": "4WD is usually engaged manually and sends equal power to all four wheels through a transfer case, built for rugged off-road terrain. AWD is always active and automatically adjusts power between wheels, meant more for on-road traction in rain or snow than heavy off-roading."
+  },
+  {
+    "question": "What ground clearance is good for off-roading?",
+    "answer": "For serious off-roading you want at least 8 to 10 inches (200-250mm) of ground clearance. That's enough to clear rocks, ruts, and uneven terrain without hitting the undercarriage."
+  },
+  {
+    "question": "What tire pressure should I use for off-road driving?",
+    "answer": "Drop tire pressure to around 15-20 PSI (down from the usual 30-35 PSI). This increases the tire's contact patch and improves traction on sand, mud, and rocky trails. Re-inflate before you get back on paved roads."
+  },
+  {
+    "question": "What is a differential lock and why is it important?",
+    "answer": "A diff lock forces both wheels on an axle to spin at the same speed, so power still gets delivered evenly even if one wheel loses traction. Useful in mud or rocky terrain where one wheel might otherwise just spin freely."
+  },
+  {
+    "question": "Do I need a winch for off-roading?",
+    "answer": "Not mandatory for light trail driving, but highly recommended for serious off-roading. Lets you recover your own vehicle (or someone else's) if you get stuck in mud, sand, or on an incline."
+  },
+  {
+    "question": "What is approach and departure angle?",
+    "answer": "Approach angle is the steepest incline your front bumper can climb without hitting the ground; departure angle is the same idea for the rear. Higher angles (30+ degrees) mean better capability on steep terrain."
+  },
+  {
+    "question": "What is the best suspension setup for off-road vehicles?",
+    "answer": "Long-travel suspension with reinforced shocks works best, since it keeps the wheels in contact with the ground over uneven terrain. Lift kits plus heavy-duty coil springs or air suspension are common upgrades."
+  },
+  {
+    "question": "How do I choose off-road tires?",
+    "answer": "All-Terrain (A/T) tires are a good middle ground for mixed on-road/off-road use. Mud-Terrain (M/T) tires grip better in mud and rocks but wear out faster on pavement. Pick based on how much time you'll actually spend off-road."
+  },
+  {
+    "question": "What is low range gearing used for?",
+    "answer": "Low range multiplies torque at low speeds, giving you more pulling power for climbing steep grades, crawling over rocks, or getting through deep mud and sand without straining the engine."
+  },
+  {
+    "question": "Can I take a stock SUV off-roading?",
+    "answer": "For light trails and dirt roads, sure — most stock AWD/4WD SUVs handle that fine. For technical terrain like rock crawling or deep mud, you'll want upgrades: all-terrain tires, skid plates, more ground clearance."
+  },
+  {
+    "question": "What is a skid plate and do I need one?",
+    "answer": "A skid plate is a metal or composite panel under the vehicle that protects the engine, transmission, and fuel tank from rocks and debris. Worth having if you do regular off-road or rock crawling trips."
+  },
+  {
+    "question": "How do I recover a vehicle stuck in mud?",
+    "answer": "First try rocking it gently in low range with slow, steady throttle. If that doesn't work, use traction boards under the tires, or a winch/tow strap anchored to something solid or another vehicle."
+  },
+  {
+    "question": "What is a snorkel and why do off-road vehicles have one?",
+    "answer": "A snorkel moves the engine's air intake up above roof level, so the vehicle can wade through deep water crossings without sucking water into the engine and hydro-locking it."
+  },
+  {
+    "question": "Is off-road driving bad for my car's engine?",
+    "answer": "Not inherently, as long as you stay within the vehicle's limits. Overheating, deep water crossings without a snorkel, or prolonged high-RPM driving can cause damage though. Regular maintenance goes a long way."
+  },
+  {
+    "question": "What safety gear should I bring for off-roading?",
+    "answer": "A recovery kit (tow strap, shackles), a jack rated for uneven terrain (hi-lift jack), a first aid kit, extra water, a tire repair kit with air compressor, and a charged phone or satellite communicator for emergencies."
+  }
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Off-Road FAQ Bot</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="chat-box">
+    <div class="chat-header">Off-Road Cars FAQ Bot</div>
+
+    <div id="messages" class="messages">
+      <div class="bot-msg">
+        Hey! Ask me about 4WD, tires, winching, ground clearance, or recovery.
+      </div>
+    </div>
+
+    <div class="quick-replies">
+      <button onclick="quickAsk('What tire pressure should I use off-road?')">Tire pressure</button>
+      <button onclick="quickAsk('4WD vs AWD?')">4WD vs AWD</button>
+      <button onclick="quickAsk('Do I need a winch?')">Need a winch?</button>
+      <button onclick="quickAsk('How do I recover a vehicle stuck in mud?')">Stuck in mud</button>
+    </div>
+
+    <div class="input-row">
+      <input id="userInput" type="text" placeholder="Type a question..." onkeydown="if(event.key==='Enter') sendMessage()">
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
