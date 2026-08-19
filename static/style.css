@@ -9,8 +9,10 @@ body {
 }
 
 .chat-box {
-  width: 380px;
-  height: 550px;
+  width: 100%;
+  max-width: 720px;
+  height: 90vh;
+  max-height: 850px;
   background: #fff;
   border-radius: 10px;
   display: flex;
