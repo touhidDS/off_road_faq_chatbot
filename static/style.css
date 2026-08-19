@@ -6,6 +6,8 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .chat-box {
