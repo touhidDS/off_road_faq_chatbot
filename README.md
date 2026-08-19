@@ -4,6 +4,10 @@ Small FAQ chatbot for off-road vehicle questions (4WD/AWD, tires, winching, reco
 Matches whatever the user types against a set of FAQ questions using TF-IDF + cosine similarity,
 and returns the closest answer. If nothing matches well enough, it says so instead of guessing.
 
+**Live demo:** https://offroad-new.onrender.com/
+
+(Hosted on Render's free tier, so the first request after a while can take 30-50s to wake the instance up.)
+
 ## How it works
 
 - `faq_data.json` — question/answer pairs
@@ -21,13 +25,6 @@ uvicorn main:app --reload
 ```
 
 Open `http://127.0.0.1:8000`.
-
-## Docker
-
-```bash
-docker build -t offroad-faq-bot .
-docker run -p 7860:7860 offroad-faq-bot
-```
 
 ## Possible improvements
 
